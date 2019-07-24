@@ -1,7 +1,11 @@
 # Workshop of Cinematography
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/workshop-solutions/workshop-cinematography.svg?style=flat-square)](https://github.com/workshop-solutions/workshop-cinematography/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/workshop-cinematography.svg)](https://github.com/org-victorinox/workshop-cinematography/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/workshop-cinematography.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/workshop-cinematography.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/workshop-cinematography.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/workshop-cinematography/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/workshop-solutions/workshop-cinematography/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/workshop-cinematography/releases) for detailed changelog.
 
 ## License
 
